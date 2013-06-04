@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 %{
 #include <stdio.h>
 #include <stdlib.h>
@@ -1110,3 +1111,6 @@ void drop_table ()
         }
     }
 }
+=======
+a
+>>>>>>> efec3de3daf421a98d35bfbe7d274fb74caaf18e
