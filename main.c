@@ -2,7 +2,7 @@
 extern FILE *yyin;
 int main()
 {
-//        yyin = fopen("file.in", "r");
+        yyin = fopen("file.in", "r");
         printf("sql>");
         yyparse();
 }
